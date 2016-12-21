@@ -1,5 +1,6 @@
 # consol
 
+![Build Status](https://travis-ci.org/vbayul/consol.svg?branch=master)
 
 CREATE SCHEMA `luxoft` ;
 
