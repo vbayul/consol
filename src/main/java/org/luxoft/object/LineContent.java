@@ -1,7 +1,7 @@
 package org.luxoft.object;
 
 public class LineContent {
-	//объект строки где содержится информация о строке
+
 	private String longWord;
 	private String shortWord;
 	private int lineLength;
