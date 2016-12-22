@@ -1,5 +1,4 @@
 language: java
 
-script: "sbt clean coverage test"
-
-after_success: "sbt coveralls"
+after_success:
+  - coveralls
